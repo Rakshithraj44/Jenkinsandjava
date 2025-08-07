@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Hello, World!</title>
+<title>Welcome Message!</title>
 </head>
 <body>
-<h1>Hello World and Hello Everyone i Hope Everyone is Doing Well!</h1>
+<h1>Hello Everyone i Hope Everyone is Doing Well!</h1>
 </body>
 </html>
